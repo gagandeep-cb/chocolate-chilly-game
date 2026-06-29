@@ -9,7 +9,7 @@ int main()
     int collect;
     int player = 1;
 
-    total_chocolates = rand() % 100 + 10;
+    total_chocolates = rand() % 20 + 10;
 
     printf("Total chocolates = %d\n", total_chocolates);
 
